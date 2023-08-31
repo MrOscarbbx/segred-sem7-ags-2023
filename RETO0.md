@@ -15,7 +15,7 @@ Empezamos leyendo los requerimientos para poder completar el reto que son:
 | pdw | Indica el directorio actual |
 | whoami | Indica el usuario en el cual nos estamos logeados|
 |cd /| Me lleva al directorio raiz|
-| ls| Muestra |
+| ls| Muestra los diferentes archivos del directorio actual|
 
 ---
 Teniendo en cuenta esta informacion, buscamos cual es la sintaxis para poder conectarnos a el servidor, que es la siguiente:
@@ -23,4 +23,4 @@ Teniendo en cuenta esta informacion, buscamos cual es la sintaxis para poder con
 		- `If you want to specify a port, add -p 0000, (replace 0000 with the desired port number).´
 	Cambiamos los espacios con los datos que ya tenemos :
 	- `ssh bandit0@bandit.labs.overthewire.org -p 2220
-	Y con eso se completa el reto Numero 1
+	Y con eso se completa el Reto 0
