@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9254eedf793fc638",
+        "id": "3726da323088eafd",
         "type": "tabs",
         "children": [
           {
-            "id": "234d32df03e3e1fe",
+            "id": "5cb74fc1929becd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RETO27 - RETO28.md",
+                "file": "RETO33 - RETO34.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RETO27 - RETO28.md",
+                "file": "RETO33 - RETO34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RETO27 - RETO28.md",
+                "file": "RETO33 - RETO34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RETO27 - RETO28.md"
+                "file": "RETO33 - RETO34.md"
               }
             }
           }
@@ -146,14 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "234d32df03e3e1fe",
+  "active": "5cb74fc1929becd9",
   "lastOpenFiles": [
-    "imagenes/Pasted image 20230920213436.png",
+    "RETO33 - RETO34.md",
+    "RETO32 - RETO33.md",
+    "Pasted image 20230922110717.png",
+    "Pasted image 20230922110241.png",
+    "RETO31 - RETO32.md",
+    "RETO30 - RETO31.md",
+    "RETO28 - RETO29.md",
+    "RETO29 - RETO30.md",
     "RETO27 - RETO28.md",
+    "RETO34 - RETO35.md",
+    "RETO25 - RETO26.md",
     "RETO26 - RETO27.md",
+    "imagenes/Pasted image 20230920213436.png",
     "imagenes/Pasted image 20230920213620.png",
     "imagenes/Pasted image 20230920213547.png",
-    "RETO25 - RETO26.md",
     "imagenes/Pasted image 20230920212411.png",
     "imagenes",
     "imagenes/Pasted image 20230920212539.png",
