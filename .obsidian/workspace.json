@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ac24b5ed6eeeab5",
+        "id": "b6cda9fe7a7c67f4",
         "type": "tabs",
         "children": [
           {
-            "id": "383520970f9fce61",
+            "id": "3dd44a25224065e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parte 3/PW Crack 3.md",
+                "file": "Retos Web 1/We are robots.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parte 3/PW Crack 3.md",
+                "file": "Retos Web 1/We are robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parte 3/PW Crack 3.md",
+                "file": "Retos Web 1/We are robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parte 3/PW Crack 3.md"
+                "file": "Retos Web 1/We are robots.md"
               }
             }
           }
@@ -146,24 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "383520970f9fce61",
+  "active": "3dd44a25224065e4",
   "lastOpenFiles": [
-    "imagenes/Pasted image 20230926234249.png",
+    "Retos Web 1/PICOBROWSER.md",
+    "Retos Web 1/Logon.md",
+    "Retos Web 1/Insp3ctor.md",
+    "Retos Web 1/Don´t use client side.md",
+    "Retos Web 1/Client again.md",
+    "imagenes/Pasted image 20231002110908.png",
+    "imagenes/Pasted image 20231003233629.png",
+    "Retos Web 1/We are robots.md",
+    "imagenes/Pasted image 20231002113635.png",
+    "imagenes/Pasted image 20231002113112.png",
+    "imagenes/Pasted image 20231002113056.png",
+    "imagenes/Pasted image 20231002112725.png",
+    "imagenes/Pasted image 20231002112346.png",
+    "imagenes/Pasted image 20231002111911.png",
+    "imagenes/Pasted image 20231002110923.png",
+    "imagenes/Pasted image 20231002103400.png",
     "Parte 3/PW Crack 3.md",
-    "imagenes/Pasted image 20230927002940.png",
+    "Retos Web 1",
     "Parte 3/Bases.md",
     "Parte 3/plumbing.md",
     "Parte 3/runme.py.md",
     "Parte 3/PW Crack 2.md",
-    "imagenes/Pasted image 20230927000644.png",
     "Parte 3/PW Crack 1.md",
-    "imagenes/Pasted image 20230926235331.png",
     "Parte 3/Glitch Cat.md",
     "Parte 3/Fixme2.py.md",
-    "imagenes/Pasted image 20230925214515.png",
-    "Untitled",
     "Parte 3",
-    "imagenes/Pasted image 20230925215845.png",
     "Parte 2/What's a net cat.md",
     "Parte 2/Strings.md",
     "Parte 2/Fixme.py.md",
@@ -176,18 +186,8 @@
     "Parte 1/Nice Natcat.md",
     "Parte 1/Warmed Up.md",
     "Parte 2",
-    "Parte 1/Lets Warm Up.md",
-    "Parte 1/Magickarp.md",
-    "Parte 1/Tab,Tab, Attack.md",
-    "Parte 1/Static aint always noise.md",
-    "Parte 1/Wave the Flag.md",
-    "Parte 1/Obediant Cat.md",
     "Parte 1",
-    "imagenes/Pasted image 20230922110241.png",
     "21-34",
-    "imagenes/Pasted image 20230922110717.png",
-    "imagenes/Pasted image 20230920213436.png",
-    "imagenes/Pasted image 20230920213620.png",
     "imagenes",
     "11 - 20",
     "1-10"
