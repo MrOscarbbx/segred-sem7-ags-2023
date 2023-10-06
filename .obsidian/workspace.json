@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6cda9fe7a7c67f4",
+        "id": "110f2a0401e2e661",
         "type": "tabs",
         "children": [
           {
-            "id": "3dd44a25224065e4",
+            "id": "7af0bec30d382d10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos Web 1/We are robots.md",
+                "file": "CTFD/Find_the_message.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos Web 1/We are robots.md",
+                "file": "CTFD/Find_the_message.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos Web 1/We are robots.md",
+                "file": "CTFD/Find_the_message.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos Web 1/We are robots.md"
+                "file": "CTFD/Find_the_message.md"
               }
             }
           }
@@ -146,24 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dd44a25224065e4",
+  "active": "7af0bec30d382d10",
   "lastOpenFiles": [
+    "CTFD/An_intriguing_file.md",
+    "CTFD/Challenge.md",
+    "CTFD/Discord.md",
+    "CTFD/Find_the_message.md",
+    "imagenes/Pasted image 20231004131910.png",
+    "imagenes/Pasted image 20231004202157.png",
+    "CTFD/How to catch snakes.md",
+    "Pasted image 20231004202157.png.md",
+    "CTFD/Poor_security.md",
+    "imagenes/Pasted image 20231004103352.png",
+    "CTFD",
+    "domino.jpg",
+    "imagenes/Pasted image 20231004103454.png",
+    "imagenes/Pasted image 20231004103409.png",
+    "Retos Web 2/Iirish 3.md",
+    "imagenes/Pasted image 20231004111857.png",
+    "imagenes/Pasted image 20231004111751.png",
+    "imagenes/Pasted image 20231004111725.png",
+    "imagenes/Pasted image 20231004111707.png",
+    "Retos Web 2/Irish 2.md",
+    "Retos Web 2/Irish 1.md",
+    "Retos Web 1/We are robots.md",
+    "Retos Web 2",
     "Retos Web 1/PICOBROWSER.md",
     "Retos Web 1/Logon.md",
     "Retos Web 1/Insp3ctor.md",
     "Retos Web 1/Don´t use client side.md",
     "Retos Web 1/Client again.md",
-    "imagenes/Pasted image 20231002110908.png",
-    "imagenes/Pasted image 20231003233629.png",
-    "Retos Web 1/We are robots.md",
-    "imagenes/Pasted image 20231002113635.png",
-    "imagenes/Pasted image 20231002113112.png",
-    "imagenes/Pasted image 20231002113056.png",
-    "imagenes/Pasted image 20231002112725.png",
-    "imagenes/Pasted image 20231002112346.png",
-    "imagenes/Pasted image 20231002111911.png",
-    "imagenes/Pasted image 20231002110923.png",
-    "imagenes/Pasted image 20231002103400.png",
     "Parte 3/PW Crack 3.md",
     "Retos Web 1",
     "Parte 3/Bases.md",
@@ -175,16 +187,6 @@
     "Parte 3/Fixme2.py.md",
     "Parte 3",
     "Parte 2/What's a net cat.md",
-    "Parte 2/Strings.md",
-    "Parte 2/Fixme.py.md",
-    "Parte 2/First Grep.md",
-    "Parte 2/Convertme.py.md",
-    "Parte 2/2Warm.md",
-    "Parte 2/Codebook.md",
-    "Parte 2/Bases.md",
-    "Notas Generales PicoCTF.md",
-    "Parte 1/Nice Natcat.md",
-    "Parte 1/Warmed Up.md",
     "Parte 2",
     "Parte 1",
     "21-34",
