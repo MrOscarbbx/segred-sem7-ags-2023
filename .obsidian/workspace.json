@@ -11,8 +11,12 @@
             "id": "1f11a6be828d7ae6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Retos Web 3/Scavenger Hunt.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagenes/Pasted image 20231004202157.png.md",
+                "file": "Retos Web 3/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagenes/Pasted image 20231004202157.png.md",
+                "file": "Retos Web 3/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagenes/Pasted image 20231004202157.png.md"
+                "file": "Retos Web 3/Scavenger Hunt.md"
               }
             }
           }
@@ -142,29 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed7680bb14c2f2f4",
+  "active": "1f11a6be828d7ae6",
   "lastOpenFiles": [
-    "imagenes/Screenshot_2023-10-10_01_35_56.png",
-    "imagenes/Screenshot_2023-10-10_01_42_03.png",
-    "imagenes/Pasted image 20231009174641.png",
+    "Retos Web 3/Cookie.md",
+    "Retos Web 3/Get aHead.md",
+    "Retos Web 3/Scavenger Hunt.md",
+    "imagenes/Screenshot_2023-10-11_12_42_48.png",
+    "imagenes/Pasted image 20231011105341.png",
+    "imagenes/Pasted image 20231011175518.png",
+    "imagenes/Pasted image 20231011175326.png",
+    "imagenes/Pasted image 20231011173820.png",
+    "imagenes/Pasted image 20231011173629.png",
+    "imagenes/Pasted image 20231011173341.png",
+    "imagenes/Pasted image 20231011173303.png",
+    "imagenes/Pasted image 20231011173254.png",
+    "imagenes/Pasted image 20231011172932.png",
+    "Retos Web 3",
     "Retos Web 2/JaWT Scratchpad.md",
     "Retos Web 2/Irish 3.md",
     "Retos Web 2/Irish 2.md",
     "Retos Web 2/Irish 1.md",
-    "imagenes/Pasted image 20231010001802.png",
-    "imagenes/Screenshot_2023-10-10_01_43_23.png",
-    "imagenes/Screenshot_2023-10-10_01_42_29.png",
-    "imagenes/Pasted image 20231010000959.png",
     "CTFD/Find_the_message.md",
     "CTFD/An_intriguing_file.md",
     "CTFD/Challenge.md",
     "CTFD/Discord.md",
-    "imagenes/Pasted image 20231004131910.png",
-    "imagenes/Pasted image 20231004202157.png",
     "CTFD/How to catch snakes.md",
     "imagenes/Pasted image 20231004202157.png.md",
     "CTFD/Poor_security.md",
-    "imagenes/Pasted image 20231004103352.png",
     "CTFD",
     "Retos Web 1/We are robots.md",
     "Retos Web 2",
@@ -179,15 +187,11 @@
     "Parte 3/plumbing.md",
     "Parte 3/runme.py.md",
     "Parte 3/PW Crack 2.md",
-    "Parte 3/PW Crack 1.md",
-    "Parte 3/Glitch Cat.md",
-    "Parte 3/Fixme2.py.md",
     "Parte 3",
     "Parte 2",
     "Parte 1",
     "21-34",
     "imagenes",
-    "11 - 20",
-    "1-10"
+    "11 - 20"
   ]
 }
