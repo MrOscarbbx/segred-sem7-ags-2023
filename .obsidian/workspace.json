@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "110f2a0401e2e661",
+        "id": "8dd5989e0a6e283c",
         "type": "tabs",
         "children": [
           {
-            "id": "7af0bec30d382d10",
+            "id": "1f11a6be828d7ae6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTFD/Find_the_message.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTFD/Find_the_message.md",
+                "file": "imagenes/Pasted image 20231004202157.png.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTFD/Find_the_message.md",
+                "file": "imagenes/Pasted image 20231004202157.png.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTFD/Find_the_message.md"
+                "file": "imagenes/Pasted image 20231004202157.png.md"
               }
             }
           }
@@ -146,29 +142,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7af0bec30d382d10",
+  "active": "ed7680bb14c2f2f4",
   "lastOpenFiles": [
+    "imagenes/Screenshot_2023-10-10_01_35_56.png",
+    "imagenes/Screenshot_2023-10-10_01_42_03.png",
+    "imagenes/Pasted image 20231009174641.png",
+    "Retos Web 2/JaWT Scratchpad.md",
+    "Retos Web 2/Irish 3.md",
+    "Retos Web 2/Irish 2.md",
+    "Retos Web 2/Irish 1.md",
+    "imagenes/Pasted image 20231010001802.png",
+    "imagenes/Screenshot_2023-10-10_01_43_23.png",
+    "imagenes/Screenshot_2023-10-10_01_42_29.png",
+    "imagenes/Pasted image 20231010000959.png",
+    "CTFD/Find_the_message.md",
     "CTFD/An_intriguing_file.md",
     "CTFD/Challenge.md",
     "CTFD/Discord.md",
-    "CTFD/Find_the_message.md",
     "imagenes/Pasted image 20231004131910.png",
     "imagenes/Pasted image 20231004202157.png",
     "CTFD/How to catch snakes.md",
-    "Pasted image 20231004202157.png.md",
+    "imagenes/Pasted image 20231004202157.png.md",
     "CTFD/Poor_security.md",
     "imagenes/Pasted image 20231004103352.png",
     "CTFD",
-    "domino.jpg",
-    "imagenes/Pasted image 20231004103454.png",
-    "imagenes/Pasted image 20231004103409.png",
-    "Retos Web 2/Iirish 3.md",
-    "imagenes/Pasted image 20231004111857.png",
-    "imagenes/Pasted image 20231004111751.png",
-    "imagenes/Pasted image 20231004111725.png",
-    "imagenes/Pasted image 20231004111707.png",
-    "Retos Web 2/Irish 2.md",
-    "Retos Web 2/Irish 1.md",
     "Retos Web 1/We are robots.md",
     "Retos Web 2",
     "Retos Web 1/PICOBROWSER.md",
@@ -186,7 +183,6 @@
     "Parte 3/Glitch Cat.md",
     "Parte 3/Fixme2.py.md",
     "Parte 3",
-    "Parte 2/What's a net cat.md",
     "Parte 2",
     "Parte 1",
     "21-34",
