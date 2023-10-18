@@ -17,7 +17,7 @@
 	┌──(kali㉿kali)-[~/Picoctf/forense]
 	└─$ open flag.png 
 
-![[flag.png]]
+![[flag 1.png]]
 En este problema solo regresamos el archivo a su extencion original
 
 ---
