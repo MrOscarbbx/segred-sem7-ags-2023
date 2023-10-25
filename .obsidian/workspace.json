@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "50683b1d1c0651ff",
+        "id": "3cbbc659c3b742fb",
         "type": "tabs",
         "children": [
           {
-            "id": "b464d5716bc4ae7e",
+            "id": "4fbfe86d7ddc6d0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Parcial/Parte 2/Wireshark doo dooo do doo....md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Parcial/Parte 2/Wireshark doo dooo do doo....md",
+                "file": "imagenes/Pasted image 20231024195616.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo Parcial/Parte 2/Wireshark doo dooo do doo....md",
+                "file": "imagenes/Pasted image 20231024195616.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segundo Parcial/Parte 2/Wireshark doo dooo do doo....md"
+                "file": "imagenes/Pasted image 20231024195616.png"
               }
             }
           }
@@ -146,8 +142,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b464d5716bc4ae7e",
+  "active": "ed7680bb14c2f2f4",
   "lastOpenFiles": [
+    "Crypto/Parte 1/13.md",
+    "Crypto/Parte 1/caesar.md",
+    "Crypto/Parte 1/Easy1.md",
+    "Crypto/Parte 1/la cifra de.md",
+    "Crypto/Parte 1/Tapping.md",
+    "Crypto/Parte 1/The Numbers.md",
+    "Crypto/Parte 1/waves over lambda.md",
+    "imagenes/Pasted image 20231024215648.png",
+    "imagenes/Pasted image 20231024214513.png",
+    "imagenes/Pasted image 20231024214010.png",
+    "imagenes/Pasted image 20231024205100.png",
+    "imagenes/Pasted image 20231024204829.png",
+    "imagenes/Pasted image 20231024202218.png",
+    "imagenes/Pasted image 20231024195843.png",
+    "imagenes/Pasted image 20231024195616.png",
+    "Plantilla.md",
+    "Crypto/Parte 1",
+    "Bandit",
+    "Web",
+    "Forensic",
+    "Crypto",
+    "Segundo Parcial/Parte 2/Wireshark doo dooo do doo....md",
     "Segundo Parcial/Parte 2/St3g0.md",
     "Segundo Parcial/Parte 2/Redaction gone wrong.md",
     "Segundo Parcial/Parte 2/Packets Primer.md",
@@ -165,33 +183,11 @@
     "Segundo Parcial/Parte 1/Forbidden Paths.md",
     "imagenes/Pasted image 20231023233754.png",
     "imagenes/Pasted image 20231023231032.png",
-    "Forensic 1/What lies Within.md",
-    "imagenes/Pasted image 20231023233750.png",
-    "imagenes/Pasted image 20231023233747.png",
-    "imagenes/Pasted image 20231023221308.png",
-    "imagenes/Pasted image 20231023230212.png",
-    "Segundo Parcial/Parte 2/Wireshark doo dooo do doo....md",
-    "imagenes/Pasted image 20231023225101.png",
-    "imagenes/Pasted image 20231023185752.png",
-    "imagenes/Pasted image 20231023184858.png",
-    "imagenes/Pasted image 20231023184802.png",
-    "Segundo Parcial/Parte 2/Plantilla 1 1 1 1 1.md",
-    "Plantilla.md",
+    "Forensic/Forensic 1/What lies Within.md",
     "Segundo Parcial/Parte 1",
     "Segundo Parcial/Parte 2",
     "Segundo Parcial",
-    "Forensic 3/WebNet1.md",
-    "Forensic 3/WebNet0.md",
-    "Forensic 3/Tunnel Vision.md",
-    "Forensic 3/Matrioshka doll.md",
-    "Forensic 3/MacroHard WeakEdge.md",
-    "Forensic 3/Plantilla 3 1.md",
-    "Forensic 3",
-    "Forensic 2",
-    "Forensic 1",
-    "Retos Web 3",
-    "CTFD",
-    "Retos Web 2",
-    "Retos Web 1"
+    "Forensic/Forensic 3",
+    "Forensic/Forensic 2"
   ]
 }

@@ -2,11 +2,6 @@
 ### OBJETIVO 
 
 ---
-### DATOS DE ACCESO
-	Servidor : 
-	Contraseña : 
-
----
 ### SOLUCION
 
 ---
