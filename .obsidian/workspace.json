@@ -11,8 +11,12 @@
             "id": "4fbfe86d7ddc6d0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/Parte 2/b00tl3gRSA2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagenes/Pasted image 20231024195616.png",
+                "file": "Crypto/Parte 2/b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagenes/Pasted image 20231024195616.png",
+                "file": "Crypto/Parte 2/b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagenes/Pasted image 20231024195616.png"
+                "file": "Crypto/Parte 2/b00tl3gRSA2.md"
               }
             }
           }
@@ -142,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed7680bb14c2f2f4",
+  "active": "4fbfe86d7ddc6d0c",
   "lastOpenFiles": [
+    "Crypto/Parte 2/RSA-pop-quiz.md",
+    "Crypto/Parte 2/miniRSA.md",
+    "Crypto/Parte 2/b00tl3gRSA2.md",
+    "Crypto/Parte 2",
     "Crypto/Parte 1/13.md",
     "Crypto/Parte 1/caesar.md",
     "Crypto/Parte 1/Easy1.md",
@@ -180,14 +188,11 @@
     "Segundo Parcial/Parte 1/Local Authority.md",
     "Segundo Parcial/Parte 1/Includes.md",
     "Segundo Parcial/Parte 1/Inspect HTML.md",
-    "Segundo Parcial/Parte 1/Forbidden Paths.md",
     "imagenes/Pasted image 20231023233754.png",
     "imagenes/Pasted image 20231023231032.png",
-    "Forensic/Forensic 1/What lies Within.md",
     "Segundo Parcial/Parte 1",
     "Segundo Parcial/Parte 2",
     "Segundo Parcial",
-    "Forensic/Forensic 3",
-    "Forensic/Forensic 2"
+    "Forensic/Forensic 3"
   ]
 }
