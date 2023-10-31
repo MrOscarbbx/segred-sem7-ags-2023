@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/Parte 2/b00tl3gRSA2.md",
+                "file": "Crypto/Parte 3/HideToSee.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/Parte 2/b00tl3gRSA2.md",
+                "file": "Crypto/Parte 3/HideToSee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crypto/Parte 2/b00tl3gRSA2.md",
+                "file": "Crypto/Parte 3/HideToSee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto/Parte 2/b00tl3gRSA2.md"
+                "file": "Crypto/Parte 3/HideToSee.md"
               }
             }
           }
@@ -148,9 +148,22 @@
   },
   "active": "4fbfe86d7ddc6d0c",
   "lastOpenFiles": [
+    "Crypto/Parte 3/mod 37.md",
+    "Crypto/Parte 3/Pixelate.md",
+    "Crypto/Parte 3/ps qs.md",
+    "Crypto/Parte 3/Read my Cert.md",
+    "Segundo Parcial/Parte 2/Pasted image 20231030232100.png",
+    "Segundo Parcial/Parte 2/Pasted image 20231030231945.png",
+    "Segundo Parcial/Parte 2/Pasted image 20231030231918.png",
+    "Crypto/Parte 3/HideToSee.md",
+    "Segundo Parcial/Parte 2/Pasted image 20231030225732.png",
+    "Segundo Parcial/Parte 2/atbash.jpg",
+    "Segundo Parcial/Parte 2/Pasted image 20231030223616.png",
+    "Segundo Parcial/Parte 2/Pasted image 20231030222955.png",
     "Crypto/Parte 2/RSA-pop-quiz.md",
-    "Crypto/Parte 2/miniRSA.md",
+    "Crypto/Parte 3",
     "Crypto/Parte 2/b00tl3gRSA2.md",
+    "Crypto/Parte 2/miniRSA.md",
     "Crypto/Parte 2",
     "Crypto/Parte 1/13.md",
     "Crypto/Parte 1/caesar.md",
@@ -162,11 +175,6 @@
     "imagenes/Pasted image 20231024215648.png",
     "imagenes/Pasted image 20231024214513.png",
     "imagenes/Pasted image 20231024214010.png",
-    "imagenes/Pasted image 20231024205100.png",
-    "imagenes/Pasted image 20231024204829.png",
-    "imagenes/Pasted image 20231024202218.png",
-    "imagenes/Pasted image 20231024195843.png",
-    "imagenes/Pasted image 20231024195616.png",
     "Plantilla.md",
     "Crypto/Parte 1",
     "Bandit",
@@ -182,17 +190,8 @@
     "Segundo Parcial/Parte 2/Enhance!.md",
     "Segundo Parcial/Parte 1/SQL Direct.md",
     "Segundo Parcial/Parte 1/Secrets.md",
-    "Segundo Parcial/Parte 1/Search source.md",
-    "Segundo Parcial/Parte 1/Roboto Sans.md",
-    "Segundo Parcial/Parte 1/Power Cookie.md",
-    "Segundo Parcial/Parte 1/Local Authority.md",
-    "Segundo Parcial/Parte 1/Includes.md",
-    "Segundo Parcial/Parte 1/Inspect HTML.md",
-    "imagenes/Pasted image 20231023233754.png",
-    "imagenes/Pasted image 20231023231032.png",
     "Segundo Parcial/Parte 1",
     "Segundo Parcial/Parte 2",
-    "Segundo Parcial",
-    "Forensic/Forensic 3"
+    "Segundo Parcial"
   ]
 }
