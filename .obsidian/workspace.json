@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reverse E/Parte 1/vault-door- 5.md",
+                "file": "Reverse E/Parte 2/asm 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reverse E/Parte 1/vault-door- 5.md",
+                "file": "Reverse E/Parte 2/asm 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reverse E/Parte 1/vault-door- 5.md",
+                "file": "Reverse E/Parte 2/asm 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reverse E/Parte 1/vault-door- 5.md"
+                "file": "Reverse E/Parte 2/asm 3.md"
               }
             }
           }
@@ -148,15 +148,23 @@
   },
   "active": "46d75b48e7ab166b",
   "lastOpenFiles": [
+    "Reverse E/Parte 2/asm 2.md",
+    "Reverse E/Parte 2/asm 3.md",
+    "Segundo Parcial/Parte 2/Pasted image 20231107220842.png",
+    "Reverse E/Parte 2/asm 1.md",
+    "Reverse E/Parte 2/asm.md",
+    "Reverse E/Parte 2/asm 1 1.md",
+    "Plantilla.md",
+    "imagenes/Pasted image 20231105224706.png",
+    "imagenes/Pasted image 20231105205538.png",
     "Reverse E/Parte 1/vault-door- 4.md",
+    "Reverse E/Parte 2",
+    "Reverse E/Parte 1/vault-door- 5.md",
     "Reverse E/Parte 1/vault-door- 3.md",
     "Reverse E/Parte 1/vault-door- 1.md",
-    "Reverse E/Parte 1/vault-door- 5.md",
-    "Segundo Parcial/Parte 2/Pasted image 20231105224706.png",
     "Reverse E/Parte 1/Revers2.py",
     "Reverse E/Parte 1/vault-door- 2.md",
-    "Segundo Parcial/Parte 2/Pasted image 20231105212531.png",
-    "Segundo Parcial/Parte 2/Pasted image 20231105205538.png",
+    "imagenes/Pasted image 20231105212531.png",
     "Reverse E/Parte 1/Revers1.py",
     "Reverse E/Parte 1/vault-door-.md",
     "Reverse E/Parte 1/vault-door-2.md",
@@ -166,7 +174,6 @@
     "imagenes/atbash.jpg",
     "imagenes/Pasted image 20231030222955.png",
     "imagenes/Pasted image 20231105203829.png",
-    "Plantilla.md",
     "Reverse E/Parte 1",
     "Reverse E",
     "imagenes/Pasted image 20231030223616.png",
@@ -177,21 +184,14 @@
     "Crypto/Parte 3/Read my Cert.md",
     "imagenes/Pasted image 20231030232100.png",
     "imagenes/Pasted image 20231030231945.png",
-    "imagenes/Pasted image 20231030231918.png",
     "Crypto/Parte 2/RSA-pop-quiz.md",
     "Crypto/Parte 3",
     "Crypto/Parte 2/b00tl3gRSA2.md",
     "Crypto/Parte 2/miniRSA.md",
     "Crypto/Parte 2",
     "Crypto/Parte 1/13.md",
-    "Crypto/Parte 1/caesar.md",
-    "Crypto/Parte 1/Easy1.md",
-    "Crypto/Parte 1/la cifra de.md",
-    "Crypto/Parte 1/Tapping.md",
-    "Crypto/Parte 1/The Numbers.md",
     "Crypto/Parte 1",
     "Bandit",
-    "Web",
-    "Forensic"
+    "Web"
   ]
 }
