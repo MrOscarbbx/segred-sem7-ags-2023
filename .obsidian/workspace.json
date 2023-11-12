@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "942e0582deed642a",
+        "id": "4269a629cbbb5d38",
         "type": "tabs",
         "children": [
           {
-            "id": "46d75b48e7ab166b",
+            "id": "13be108b23a708f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reverse E/Parte 2/asm 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reverse E/Parte 2/asm 3.md",
+                "file": "Primer Parcial/Lets Warm Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reverse E/Parte 2/asm 3.md",
+                "file": "Primer Parcial/Lets Warm Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reverse E/Parte 2/asm 3.md"
+                "file": "Primer Parcial/Lets Warm Up.md"
               }
             }
           }
@@ -146,10 +142,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46d75b48e7ab166b",
+  "active": "ed7680bb14c2f2f4",
   "lastOpenFiles": [
-    "Reverse E/Parte 2/asm 2.md",
+    "Reverse E/Parte 3/Need for speed.md",
+    "Primer Parcial",
+    "Reverse E/Parte 3/reverse_cihper.md",
+    "Segundo Parcial/Parte 2/Pasted image 20231112171141.png",
+    "Reverse E/Parte 3/Safe Opening 2.md",
+    "Reverse E/Parte 3/GDB Test.md",
+    "reverse_cihper 1.md",
+    "Reverse E/Parte 1/texto.txt",
+    "Segundo Parcial/Parte 2/Pasted image 20231112125956.png",
+    "Segundo Parcial/Parte 2/Pasted image 20231112125632.png",
+    "Segundo Parcial/Parte 2/Pasted image 20231112124903.png",
+    "Segundo Parcial/Parte 2/Pasted image 20231112124620.png",
     "Reverse E/Parte 2/asm 3.md",
+    "Reverse E/Parte 3",
+    "Reverse E/Parte 2/asm 2.md",
     "Segundo Parcial/Parte 2/Pasted image 20231107220842.png",
     "Reverse E/Parte 2/asm 1.md",
     "Reverse E/Parte 2/asm.md",
@@ -172,26 +181,13 @@
     "Reverse E/Parte 1/vault-door-training.md",
     "Reverse E/Parte 1/Plantilla 1.md",
     "imagenes/atbash.jpg",
-    "imagenes/Pasted image 20231030222955.png",
-    "imagenes/Pasted image 20231105203829.png",
     "Reverse E/Parte 1",
     "Reverse E",
-    "imagenes/Pasted image 20231030223616.png",
     "Crypto/Parte 3/HideToSee.md",
     "Crypto/Parte 3/mod 37.md",
     "Crypto/Parte 3/Pixelate.md",
     "Crypto/Parte 3/ps qs.md",
-    "Crypto/Parte 3/Read my Cert.md",
-    "imagenes/Pasted image 20231030232100.png",
-    "imagenes/Pasted image 20231030231945.png",
-    "Crypto/Parte 2/RSA-pop-quiz.md",
     "Crypto/Parte 3",
-    "Crypto/Parte 2/b00tl3gRSA2.md",
-    "Crypto/Parte 2/miniRSA.md",
-    "Crypto/Parte 2",
-    "Crypto/Parte 1/13.md",
-    "Crypto/Parte 1",
-    "Bandit",
-    "Web"
+    "Crypto/Parte 2"
   ]
 }

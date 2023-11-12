@@ -1,0 +1,51 @@
+<main>:
+    push   %rbp
+    mov    %rsp,%rbp
+    sub    $0x50,%rsp
+    lea    0xe74(%rip),%rsi        # 2008 <_IO_stdin_used+0x8>
+    lea    0xe6f(%rip),%rdi        # 200a <_IO_stdin_used+0xa>
+    call   1070 <fopen@plt>
+    mov    %rax,-0x18(%rbp)
+    lea    0xe68(%rip),%rsi        # 2013 <_IO_stdin_used+0x13>
+    lea    0xe63(%rip),%rdi        # 2015 <_IO_stdin_used+0x15>
+    call   1070 <fopen@plt>
+    mov    %rax,-0x20(%rbp)
+    cmpq   $0x0,-0x18(%rbp)
+    jne    11ce <main+0x49>
+    lea    0xe57(%rip),%rdi        # 2020 <_IO_stdin_used+0x20>
+    call   1030 <puts@plt>
+    cmpq   $0x0,-0x20(%rbp)
+    jne    11e1 <main+0x5c>
+    lea    0xe7e(%rip),%rdi        # 205a <_IO_stdin_used+0x5a>
+    call   1030 <puts@plt>
+    mov    -0x18(%rbp),%rdx
+    lea    -0x50(%rbp),%rax
+    mov    %rdx,%rcx
+    mov    $0x1,%edx
+    mov    $0x18,%esi
+    mov    %rax,%rdi
+    call   1040 <fread@plt>
+    mov    %eax,-0x24(%rbp)
+    cmpl   $0x0,-0x24(%rbp)
+    jg     1211 <main+0x8c>
+    mov    $0x0,%edi
+    call   1080 <exit@plt>
+    movl   $0x0,-0x8(%rbp)
+    jmp    123d <main+0xb8>
+    mov    -0x8(%rbp),%eax
+    cltq   
+    movzbl -0x50(%rbp,%rax,1),%eax
+    mov    %al,-0x1(%rbp)
+    movsbl -0x1(%rbp),%eax
+    mov    -0x20(%rbp),%rdx
+    mov    %rdx,%rsi
+    mov    %eax,%edi
+    call   1060 <fputc@plt>
+    addl   $0x1,-0x8(%rbp)
+    cmpl   $0x7,-0x8(%rbp)
+    jle    121a <main+0x95>
+    movl   $0x8,-0xc(%rbp)
+    jmp    128f <main+0x10a>
+    mov    -0xc(%rbp),%eax
+    cltq   
+    movzbl -0x50(%rbp,%rax,1),%eax
