@@ -11,8 +11,10 @@
             "id": "13be108b23a708f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "imagenes/Pasted image 20231113015946.png"
+              }
             }
           }
         ]
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Parcial/Lets Warm Up.md",
+                "file": "imagenes/Pasted image 20231113015946.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Parcial/Lets Warm Up.md",
+                "file": "imagenes/Pasted image 20231113015946.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Parcial/Lets Warm Up.md"
+                "file": "imagenes/Pasted image 20231113015946.png"
               }
             }
           }
@@ -144,50 +146,50 @@
   },
   "active": "ed7680bb14c2f2f4",
   "lastOpenFiles": [
+    "Tercer Parcial/Parte 1/SRA.md",
+    "Tercer Parcial/Parte 1/Mr-Worldwide.md",
+    "Tercer Parcial/Parte 1/Flags.md",
+    "Tercer Parcial/Parte 1/Vigenere.md",
+    "Tercer Parcial/Parte 1/transposition-trial.md",
+    "Tercer Parcial/Parte 2/gdb baby 2.md",
+    "Tercer Parcial/Parte 2/gdb baby 1.md",
+    "Tercer Parcial/Parte 2/ASCII FTW.md",
+    "imagenes/Pasted image 20231113234113.png",
+    "Tercer Parcial/Parte 2/ASM 4.md",
+    "imagenes/flag 2.png",
+    "Tercer Parcial/Parte 2/ASM 3.md",
+    "Tercer Parcial/Parte 2/ASM 2.md",
+    "Tercer Parcial/Parte 2/ASM 1.md",
+    "Tercer Parcial/Parte 2/ASM.md",
+    "Crypto/Parte 3/ps qs.md",
+    "Crypto/Parte 2/RSA-pop-quiz.md",
+    "imagenes/Pasted image 20231113181614.png",
+    "imagenes/Pasted image 20231113181602.png",
+    "imagenes/Pasted image 20231113180154.png",
+    "imagenes/Pasted image 20231113015946.png",
+    "imagenes/Pasted image 20231107220842.png",
+    "imagenes/flag 1 1.png",
+    "imagenes/Pasted image 20231113015148.png",
+    "imagenes/Pasted image 20231113014848.png",
+    "Primer Parcial/Lets Warm Up.md",
+    "Tercer Parcial/Parte 2",
+    "Tercer Parcial/Parte 1",
+    "Tercer Parcial",
     "Reverse E/Parte 3/Need for speed.md",
     "Primer Parcial",
     "Reverse E/Parte 3/reverse_cihper.md",
-    "Segundo Parcial/Parte 2/Pasted image 20231112171141.png",
     "Reverse E/Parte 3/Safe Opening 2.md",
     "Reverse E/Parte 3/GDB Test.md",
     "reverse_cihper 1.md",
     "Reverse E/Parte 1/texto.txt",
-    "Segundo Parcial/Parte 2/Pasted image 20231112125956.png",
-    "Segundo Parcial/Parte 2/Pasted image 20231112125632.png",
-    "Segundo Parcial/Parte 2/Pasted image 20231112124903.png",
-    "Segundo Parcial/Parte 2/Pasted image 20231112124620.png",
     "Reverse E/Parte 2/asm 3.md",
     "Reverse E/Parte 3",
     "Reverse E/Parte 2/asm 2.md",
-    "Segundo Parcial/Parte 2/Pasted image 20231107220842.png",
     "Reverse E/Parte 2/asm 1.md",
     "Reverse E/Parte 2/asm.md",
-    "Reverse E/Parte 2/asm 1 1.md",
-    "Plantilla.md",
-    "imagenes/Pasted image 20231105224706.png",
-    "imagenes/Pasted image 20231105205538.png",
-    "Reverse E/Parte 1/vault-door- 4.md",
     "Reverse E/Parte 2",
-    "Reverse E/Parte 1/vault-door- 5.md",
-    "Reverse E/Parte 1/vault-door- 3.md",
-    "Reverse E/Parte 1/vault-door- 1.md",
     "Reverse E/Parte 1/Revers2.py",
-    "Reverse E/Parte 1/vault-door- 2.md",
-    "imagenes/Pasted image 20231105212531.png",
     "Reverse E/Parte 1/Revers1.py",
-    "Reverse E/Parte 1/vault-door-.md",
-    "Reverse E/Parte 1/vault-door-2.md",
-    "Reverse E/Parte 1/vault-door-1.md",
-    "Reverse E/Parte 1/vault-door-training.md",
-    "Reverse E/Parte 1/Plantilla 1.md",
-    "imagenes/atbash.jpg",
-    "Reverse E/Parte 1",
-    "Reverse E",
-    "Crypto/Parte 3/HideToSee.md",
-    "Crypto/Parte 3/mod 37.md",
-    "Crypto/Parte 3/Pixelate.md",
-    "Crypto/Parte 3/ps qs.md",
-    "Crypto/Parte 3",
-    "Crypto/Parte 2"
+    "Reverse E/Parte 1"
   ]
 }
